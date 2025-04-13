@@ -43,3 +43,4 @@ The inverse kinematics solution computes the required joint angles based on the 
 
 - hexapod_ik_solution.py: Python code for inverse kinematics solution.
 - Task_5.md: Markdown file explaining the solution.
+- Inverse_kinematics_derivation.jpeg - an image containing my final calculations and derivations
